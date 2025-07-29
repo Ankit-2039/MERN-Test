@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+npm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# Optional
+package-lock.json
